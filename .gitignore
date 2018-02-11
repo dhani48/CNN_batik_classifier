@@ -1,0 +1,12 @@
+.azuremlhistory_git
+.ipynb_checkpoints
+azureml-logs
+.vscode
+dataset_batik
+dataset_test
+confusion_matrix
+*.dprep.user
+logs/
+result_preprocess
+result_preprocess_test
+checkpoint/
